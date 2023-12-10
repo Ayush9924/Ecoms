@@ -1,0 +1,21 @@
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 0 0 ;
+}
+.my-1{
+    margin: 5px 0;
+
+}
+.my-2{
+    margin: 14px 17px;
+
+}
+
+.text-centre{
+    text-align: center;
+}
